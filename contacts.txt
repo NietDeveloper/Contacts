@@ -1,0 +1,1 @@
+[{"Id":1,"Name":"Nietbay","PhoneNumber":"\u002B998917930085","Email":"nietbayMuratbaev0999@gmil.com"},{"Id":2,"Name":"Artur","PhoneNumber":"\u002B998913740094","Email":"artur94@gmail.com"},{"Id":3,"Name":"Nietbay","PhoneNumber":"\u002B998911234567","Email":"niton0999@gmail.com"},{"Id":4,"Name":"Mexriban","PhoneNumber":"\u002B998915555555","Email":"mexriban1199@gmail.com"}]
